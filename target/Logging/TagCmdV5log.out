@@ -1,0 +1,81 @@
+2023-01-01 14:18:02 INFO  [main] common.SetUpTest  (SetUpTest.java:173)  - Environment: https://subscribe.jawwy.tv/bh-en?
+2023-01-01 14:18:02 INFO  [TestNG-PoolService-0] common.SetUpTest  (SetUpTest.java:42)  - ***************** START TEST *****************
+2023-01-01 14:18:02 INFO  [TestNG-PoolService-1] common.SetUpTest  (SetUpTest.java:42)  - ***************** START TEST *****************
+2023-01-01 14:18:02 INFO  [TC_02-BhSubscriptionPackages] controllers.Listeners (Listeners.java:139)  - ***************** START TEST *****************
+2023-01-01 14:18:02 INFO  [TC_01-BhSubscriptionPackages] controllers.Listeners (Listeners.java:139)  - ***************** START TEST *****************
+2023-01-01 14:18:03 INFO  [TC_02-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:86)  - TC_02-BhSubscriptionPackages
+2023-01-01 14:18:03 INFO  [TC_01-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:86)  - TC_01-BhSubscriptionPackages
+2023-01-01 14:18:03 INFO  [TC_02-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:90)  - TC_02-BhSubscriptionPackages-1672562883-8e3e20fd-32b1-4a04-b836-7ecda0305002
+2023-01-01 14:18:03 INFO  [TC_01-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:90)  - TC_01-BhSubscriptionPackages-1672562883-49ea9939-170e-424f-a1fa-6f486689b685
+2023-01-01 14:18:16 INFO  [TC_02-BhSubscriptionPackages] controllers.Listeners (Listeners.java:149)  - URL launched https://subscribe.jawwy.tv/bh-en?
+2023-01-01 14:18:16 INFO  [TC_02-BhSubscriptionPackages] controllers.Listeners (Listeners.java:150)  - Launched Browser
+2023-01-01 14:18:16 INFO  [TC_01-BhSubscriptionPackages] controllers.Listeners (Listeners.java:149)  - URL launched https://subscribe.jawwy.tv/bh-en?
+2023-01-01 14:18:16 INFO  [TC_01-BhSubscriptionPackages] controllers.Listeners (Listeners.java:150)  - Launched Browser
+2023-01-01 14:18:17 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (Scenarios.java:58)  - Scenario: TC_02-BhSubscriptionPackages----2023.01.01.14.18.17
+2023-01-01 14:18:17 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (Scenarios.java:58)  - Scenario: TC_01-BhSubscriptionPackages----2023.01.01.14.18.17
+2023-01-01 14:18:18 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:121)  -  User accessing bh---https://subscribe.stctv.com/bh-en?
+2023-01-01 14:18:18 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:121)  -  User accessing bh---https://subscribe.stctv.com/bh-en?
+2023-01-01 14:18:19 INFO  [TC_01-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from country is displayed In Homepage: Bahrain
+2023-01-01 14:18:19 INFO  [TC_02-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from country is displayed In Homepage: Bahrain
+2023-01-01 14:18:19 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:134)  - Bahrain
+2023-01-01 14:18:19 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:134)  - Bahrain
+2023-01-01 14:18:21 INFO  [TC_02-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from ChooseYourPlan is not displayed In Homepage: Choose Your Plan
+2023-01-01 14:18:21 INFO  [TC_01-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from ChooseYourPlan is not displayed In Homepage: Choose Your Plan
+2023-01-01 14:18:21 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:146)  - Choose Your Plan
+2023-01-01 14:18:21 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:146)  - Choose Your Plan
+2023-01-01 14:18:22 INFO  [TC_02-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from classic plan is not displayed In Homepage: CLASSIC
+2023-01-01 14:18:22 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:183)  - CLASSIC
+2023-01-01 14:18:22 INFO  [TC_01-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from Lite plan is displayed In Homepage: LITE
+2023-01-01 14:18:22 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:158)  - LITE
+2023-01-01 14:18:23 INFO  [TC_02-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from price is displayed: 3
+2023-01-01 14:18:23 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:193)  - classicPlan Price : 3 is verified
+2023-01-01 14:18:23 INFO  [TC_01-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from price is displayed: 2
+2023-01-01 14:18:23 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:168)  - LitePlan Price : 2 is verified
+2023-01-01 14:18:27 INFO  [TC_02-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from currency is displayed: BHD/month
+2023-01-01 14:18:27 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:200)  - classicPlan currency : BHD is verified
+2023-01-01 14:18:27 INFO  [TC_02-BhSubscriptionPackages] controllers.Listeners (Listeners.java:184)  - Thread id = 21
+2023-01-01 14:18:27 INFO  [TC_02-BhSubscriptionPackages] controllers.Listeners (Listeners.java:185)  - Hashcode of webDriver instance = 470250292
+2023-01-01 14:18:27 INFO  [TC_01-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from currency is displayed: BHD/month
+2023-01-01 14:18:27 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:175)  - LitePlan currency : BHD is verified
+2023-01-01 14:18:27 INFO  [TC_01-BhSubscriptionPackages] controllers.Listeners (Listeners.java:184)  - Thread id = 20
+2023-01-01 14:18:27 INFO  [TC_01-BhSubscriptionPackages] controllers.Listeners (Listeners.java:185)  - Hashcode of webDriver instance = 2060114018
+2023-01-01 14:18:28 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:97)  - Test -----subscriptionpackages_TC_01-BhSubscriptionPackages----2023.01.01.14.18.17 successfully executed
+2023-01-01 14:18:28 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:97)  - Test -----subscriptionpackages_TC_02-BhSubscriptionPackages----2023.01.01.14.18.17 successfully executed
+2023-01-01 14:18:29 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:107)  - Create Xray Test
+2023-01-01 14:18:29 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:108)  - Xray Test Upload Completed
+2023-01-01 14:18:29 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:118)  - ***************** END TEST *****************
+2023-01-01 14:18:29 INFO  [TC_01-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:42)  - ***************** START TEST *****************
+2023-01-01 14:18:29 INFO  [TC_03-BhSubscriptionPackages] controllers.Listeners (Listeners.java:139)  - ***************** START TEST *****************
+2023-01-01 14:18:29 INFO  [TC_03-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:86)  - TC_03-BhSubscriptionPackages
+2023-01-01 14:18:29 INFO  [TC_03-BhSubscriptionPackages] controllers.DriverClass (DriverClass.java:90)  - TC_03-BhSubscriptionPackages-1672562909-27ca676d-a0f7-4751-b401-494cf98f8350
+2023-01-01 14:18:29 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:107)  - Create Xray Test
+2023-01-01 14:18:29 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:108)  - Xray Test Upload Completed
+2023-01-01 14:18:29 INFO  [TC_02-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:118)  - ***************** END TEST *****************
+2023-01-01 14:18:42 INFO  [TC_03-BhSubscriptionPackages] controllers.Listeners (Listeners.java:149)  - URL launched https://subscribe.jawwy.tv/bh-en?
+2023-01-01 14:18:42 INFO  [TC_03-BhSubscriptionPackages] controllers.Listeners (Listeners.java:150)  - Launched Browser
+2023-01-01 14:18:43 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (Scenarios.java:58)  - Scenario: TC_03-BhSubscriptionPackages----2023.01.01.14.18.43
+2023-01-01 14:18:43 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:121)  -  User accessing bh---https://subscribe.stctv.com/bh-en?
+2023-01-01 14:18:44 INFO  [TC_03-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from country is displayed In Homepage: Bahrain
+2023-01-01 14:18:44 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:134)  - Bahrain
+2023-01-01 14:18:46 INFO  [TC_03-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from ChooseYourPlan is not displayed In Homepage: Choose Your Plan
+2023-01-01 14:18:46 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:146)  - Choose Your Plan
+2023-01-01 14:18:47 INFO  [TC_03-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from Premium plan is displayed: PREMIUM
+2023-01-01 14:18:47 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:208)  - PREMIUM
+2023-01-01 14:18:48 INFO  [TC_03-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from price is displayed: 6
+2023-01-01 14:18:48 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:218)  - PremiumPlan Price : 6 is verified
+2023-01-01 14:18:52 INFO  [TC_03-BhSubscriptionPackages] utils.CommonUtilities (CommonUtilities.java:546)  - Successfully captured text from currency is displayed: BHD/month
+2023-01-01 14:18:52 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (StctvDetails.java:225)  - LitePlan currency : BHD is verified
+2023-01-01 14:18:52 INFO  [TC_03-BhSubscriptionPackages] controllers.Listeners (Listeners.java:184)  - Thread id = 20
+2023-01-01 14:18:52 INFO  [TC_03-BhSubscriptionPackages] controllers.Listeners (Listeners.java:185)  - Hashcode of webDriver instance = 510768514
+2023-01-01 14:18:52 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:97)  - Test -----subscriptionpackages_TC_03-BhSubscriptionPackages----2023.01.01.14.18.43 successfully executed
+2023-01-01 14:18:53 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:107)  - Create Xray Test
+2023-01-01 14:18:53 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:108)  - Xray Test Upload Completed
+2023-01-01 14:18:53 INFO  [TC_03-BhSubscriptionPackages] common.SetUpTest  (SetUpTest.java:118)  - ***************** END TEST *****************
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:72)  - All Tests Execution Completed
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:59)  - Total test cases   :3
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:60)  - Total passed cases :3
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:61)  - Total failed cases :0
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:62)  - Total skipped cases:0
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:200)  - in get TestName and custom name is TC_03-BhSubscriptionPackages
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:200)  - in get TestName and custom name is TC_01-BhSubscriptionPackages
+2023-01-01 14:18:53 INFO  [main] controllers.Listeners (Listeners.java:200)  - in get TestName and custom name is TC_02-BhSubscriptionPackages

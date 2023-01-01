@@ -1,0 +1,4 @@
+TestCaseID,Execute,TestType,Language,CountryName,countrycode,Type,Price,currency
+TC_01,TRUE,Regression,English,Kuwait,kw,Lite,1.2,KWD
+TC_02,TRUE,Regression,English,Kuwait,kw,Classic,2.5,KWD
+TC_03,TRUE,Regression,English,Kuwait,kw,Premium,4.8,KWD

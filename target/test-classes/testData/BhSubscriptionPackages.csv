@@ -1,0 +1,4 @@
+TestCaseID,Execute,TestType,Language,CountryName,countrycode,Type,Price,currency
+TC_01,TRUE,Regression,English,Bahrain,bh,Lite,2,BHD
+TC_02,TRUE,Regression,English,Bahrain,bh,Classic,3,BHD
+TC_03,TRUE,Regression,English,Bahrain,bh,Premium,6,BHD

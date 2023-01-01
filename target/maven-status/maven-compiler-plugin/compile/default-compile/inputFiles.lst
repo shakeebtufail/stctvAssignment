@@ -1,0 +1,12 @@
+C:\workspace2\stctvAssignment\src\main\java\com\automation\scenarios\Scenarios.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\utils\CommonUtilities.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\webUtils\StctvDetails.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\controllers\DriverManager.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\controllers\DriverClass.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\objectRepository\Locators.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\common\Log4jUtil.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\utils\Utils.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\common\SetUpTest.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\controllers\Listeners.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\common\ReadData.java
+C:\workspace2\stctvAssignment\src\main\java\com\automation\extentReport\ExtentFactory.java

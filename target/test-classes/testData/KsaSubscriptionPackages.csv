@@ -1,0 +1,4 @@
+TestCaseID,Execute,TestType,Language,CountryName,countrycode,Type,Price,currency
+TC_01,TRUE,Regression,English,KSA,sa,Lite,15,SAR
+TC_02,TRUE,Regression,English,KSA,sa,Classic,25,SAR
+TC_03,TRUE,Regression,English,KSA,sa,Premium,60,SAR

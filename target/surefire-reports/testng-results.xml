@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Web" duration-ms="50984" started-at="2023-01-01T08:48:02Z" finished-at="2023-01-01T08:48:53Z">
+    <groups>
+      <group name="Regression">
+        <method signature="SubscriptionPackages.BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="BhSubscriptionPackages" class="com.automation.web.SubscriptionPackages"/>
+      </group> <!-- Regression -->
+      <group name="BhSubscriptionPackages">
+        <method signature="SubscriptionPackages.BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="BhSubscriptionPackages" class="com.automation.web.SubscriptionPackages"/>
+      </group> <!-- BhSubscriptionPackages -->
+    </groups>
+    <test name="SubscriptionPackages" duration-ms="50984" started-at="2023-01-01T08:48:02Z" finished-at="2023-01-01T08:48:53Z">
+      <class name="com.automation.web.SubscriptionPackages">
+        <test-method status="PASS" signature="launchApplication(org.testng.ITestContext)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="launchApplication" is-config="true" duration-ms="12" started-at="2023-01-01T08:48:02Z" finished-at="2023-01-01T08:48:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="startOfTest(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="startOfTest" is-config="true" duration-ms="2" started-at="2023-01-01T08:48:02Z" finished-at="2023-01-01T08:48:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.automation.web.SubscriptionPackages.BhSubscriptionPackages(java.util.Map) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startOfTest -->
+        <test-method status="PASS" signature="startOfTest(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="startOfTest" is-config="true" duration-ms="2" started-at="2023-01-01T08:48:02Z" finished-at="2023-01-01T08:48:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.automation.web.SubscriptionPackages.BhSubscriptionPackages(java.util.Map) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startOfTest -->
+        <test-method status="PASS" signature="BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="BhSubscriptionPackages" duration-ms="25323" started-at="2023-01-01T08:48:02Z" data-provider="getCSVDataReader" finished-at="2023-01-01T08:48:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Type=Lite, Execute=TRUE, Language=English, CountryName=Bahrain, Price=2, countrycode=bh, TestCaseID=TC_01, currency=BHD, TestType=Regression}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BhSubscriptionPackages -->
+        <test-method status="PASS" signature="BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="BhSubscriptionPackages" duration-ms="25305" started-at="2023-01-01T08:48:02Z" data-provider="getCSVDataReader" finished-at="2023-01-01T08:48:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Type=Classic, Execute=TRUE, Language=English, CountryName=Bahrain, Price=3, countrycode=bh, TestCaseID=TC_02, currency=BHD, TestType=Regression}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BhSubscriptionPackages -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="tearDown" is-config="true" duration-ms="1408" started-at="2023-01-01T08:48:27Z" finished-at="2023-01-01T08:48:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BhSubscriptionPackages status=SUCCESS method=SubscriptionPackages.BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="tearDown" is-config="true" duration-ms="1345" started-at="2023-01-01T08:48:27Z" finished-at="2023-01-01T08:48:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BhSubscriptionPackages status=SUCCESS method=SubscriptionPackages.BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="startOfTest(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="startOfTest" is-config="true" duration-ms="0" started-at="2023-01-01T08:48:29Z" finished-at="2023-01-01T08:48:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.automation.web.SubscriptionPackages.BhSubscriptionPackages(java.util.Map) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startOfTest -->
+        <test-method status="PASS" signature="BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="BhSubscriptionPackages" duration-ms="23177" started-at="2023-01-01T08:48:29Z" data-provider="getCSVDataReader" finished-at="2023-01-01T08:48:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Type=Premium, Execute=TRUE, Language=English, CountryName=Bahrain, Price=6, countrycode=bh, TestCaseID=TC_03, currency=BHD, TestType=Regression}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BhSubscriptionPackages -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b]" name="tearDown" is-config="true" duration-ms="1109" started-at="2023-01-01T08:48:52Z" finished-at="2023-01-01T08:48:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BhSubscriptionPackages status=SUCCESS method=SubscriptionPackages.BhSubscriptionPackages(java.util.Map)[pri:0, instance:com.automation.web.SubscriptionPackages@4a0c512b] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@2b3242a5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.web.SubscriptionPackages -->
+    </test> <!-- SubscriptionPackages -->
+  </suite> <!-- Web -->
+</testng-results>
